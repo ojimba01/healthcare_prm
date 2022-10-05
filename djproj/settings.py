@@ -32,7 +32,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'crm',
+    'prm',
     'tasks',
     'django.contrib.admin',
     'django.contrib.auth',
